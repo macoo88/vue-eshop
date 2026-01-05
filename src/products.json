@@ -1,0 +1,69 @@
+[
+    {
+        "name" : "Transistor NPN",
+        "description": "Transistor",
+        "price": 0.5,
+        "img" : "https://techfun.sk/wp-content/uploads/2022/08/a-11-250x250.jpg",
+        "in_stock": 10,
+        "category" : "small_components"
+    },
+    {
+        "name" : "Super mini doska",
+        "description": "Super mini vývojová doska WiFi a Bluetooth ESP32-C3",
+        "price": 5,
+        "img" : "https://techfun.sk/wp-content/uploads/2025/10/h-250x250.webp",
+        "in_stock": 1,
+        "category" : "small_components"
+    },
+    {
+        "name" : "Transistor PNP",
+        "description": "lorem",
+        "price": 1,
+        "img" : "https://techfun.sk/wp-content/uploads/2022/08/a-11-250x250.jpg",
+        "in_stock": 8,
+        "category" : "small_components"
+    },
+    {
+        "name" : "Heh",
+        "description": "lorem",
+        "price": 10,
+        "img" : "https://techfun.sk/wp-content/uploads/2022/08/a-11-250x250.jpg",
+        "in_stock": 6,
+        "category" : "small_components"
+    },
+    {
+        "name" : "Heha",
+        "description": "lorem",
+        "price": 10,
+        "img" : "https://techfun.sk/wp-content/uploads/2022/08/a-11-250x250.jpg",
+        "in_stock": 9,
+        "category" : "small_components"
+    },
+
+    {
+        "name" : "Hehu",
+        "description": "lorem",
+        "price": 10,
+        "img" : "https://techfun.sk/wp-content/uploads/2022/08/a-11-250x250.jpg",
+        "in_stock": 10,
+        "category" : "small_components"
+    },
+
+    {
+        "name" : "Stavebnica elektricka kocka",
+        "description" : "Stavebnica ICSK057A elektrickej kocky NE555+CD4017",
+        "price" : 2,
+        "img" : "https://techfun.sk/wp-content/uploads/2025/10/a.webp",
+        "in_stock" : 2,
+        "category" : "building_kit"
+     },
+
+     {
+        "name" : "Stavebnica ultrazvukovy senzor",
+        "description" : "Stavebnica ultrazvukového senzora vzdialenosti",
+        "price" : 8.25,
+        "img" : "https://techfun.sk/wp-content/uploads/2025/10/e-2.jpg",
+        "in_stock" : 2,
+        "category" : "building_kit"
+     }
+]
